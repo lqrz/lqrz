@@ -15,9 +15,9 @@ I hold a Research Master’s from the University of Amsterdam, where I specialis
 
 Check out some of my latest projects; I'll be actively updating them:
 
-| 💡 Project                            | 🧩 Description                                                                                              | 🔗 Link                                                              |
-| ------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| **Bayesian Mixture Model POS Tagger** | Fully unsupervised Part-of-Speech tagger for low-resource languages using Gibbs sampling and Dirichlet–Multinomial priors.  | [🔗 Repo](https://github.com/lqrz/bayesian-mixture-model-pos-tagger) |
-| **Mapudungun Corpus**                 | Linguistic corpus supporting the above tagger, focusing on Mapudungun (a low-resource indigenous language). | [🔗 Repo](https://github.com/lqrz/mapudungun-corpus)                 |
-| **ML Model Stresser**                 | C-based concurrent stress-testing framework for Machine learning inference with Python bindings and cmocka tests. | [🔗 Repo](https://github.com/lqrz/ml-model-stresser)                 |
-| **Probabilistic Deep Learning**             | Collections of notebooks in probabilistic deep learning: Bayesian Neural Networks, Variational Autoencoders, and Normalizing Flows.              | [🔗 Repo](https://github.com/lqrz/probabilistic_deep_learning)             |
+| 💡 Project | 🧩 Description | 🔗 Link |
+|---|---|---|
+| **Bayesian Mixture Model POS Tagger** | Fully unsupervised Part-of-Speech tagger for low-resource languages using Gibbs sampling and Dirichlet–Multinomial priors.  | [Repo](https://github.com/lqrz/bayesian-mixture-model-pos-tagger) |
+| **Mapudungun Corpus** | Linguistic corpus supporting the above tagger, focusing on Mapudungun (a low-resource indigenous language). | [Repo](https://github.com/lqrz/mapudungun-corpus) |
+| **ML Model Stresser** | C-based concurrent stress-testing framework for Machine learning inference with Python bindings and cmocka tests. | [Repo](https://github.com/lqrz/ml-model-stresser) |
+| **Probabilistic Deep Learning** | Collections of notebooks in probabilistic deep learning: Bayesian Neural Networks, Variational Autoencoders, and Normalizing Flows.              | [Repo](https://github.com/lqrz/probabilistic_deep_learning) |
