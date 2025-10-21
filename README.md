@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Lautaro!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lqrz/lqrz/main/banner.png" alt="Lautaro Quiroz — Data Science & Machine Learning" width="100%">
+</p>
+
 I’m a Senior Data Scientist with 10+ years of experience designing, deploying, and scaling machine learning systems that power millions of requests every day.
 
 I hold a Research Master’s from the University of Amsterdam, where I specialised in Machine learning, Natural language processing and Information retrieval.
